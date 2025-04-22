@@ -15,15 +15,14 @@
  */
 
 /**
- * Pattern to match the name of a subreddit.
- * Allow a space to match the omnibox usage.
+ * Pattern to match the name of a subreddit. Allow a space to match the omnibox
+ * usage.
  */
 const subredditPattern = /\br(?:%2F|\/) ?([A-Za-z\d_]{3,21})\b/;
 
 /**
- * Applies to all URL filters.
- *
- * Due to a bug in Firefox, we currently don't limit it to port 80 and 443.
+ * Applies to all URL filters. Due to a bug in Firefox, we currently don't limit
+ * it to port 80 and 443.
  */
 const globalUrlFilter = {
   urlMatches: `=${subredditPattern.source}`,
