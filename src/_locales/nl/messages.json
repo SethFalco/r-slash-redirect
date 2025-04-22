@@ -12,7 +12,7 @@
     "description": "Name of the author of the extension."
   },
   "extensionHomePageUrl": {
-    "message": "https://gitlab.com/Elypia/r-slash-redirect",
+    "message": "https://gitlab.com/SethFalco/r-slash-redirect",
     "description": "Homepage of the extension."
   }
 }

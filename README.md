@@ -1,6 +1,6 @@
 # r/Redirect
 
-[![Build Status](https://gitlab.com/Elypia/r-slash-redirect/badges/main/pipeline.svg)](https://gitlab.com/Elypia/r-slash-redirect/commits/main)
+[![Build Status](https://gitlab.com/SethFalco/r-slash-redirect/badges/main/pipeline.svg)](https://gitlab.com/SethFalco/r-slash-redirect/commits/main)
 
 ## About
 
