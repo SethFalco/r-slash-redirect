@@ -11,7 +11,7 @@ An add-on for browsers to redirect `r/…` from the URL bar or search engines to
 
 ## LibRedirect
 
-This add-on pairs well with [LibRedirect](https://libredirect.github.io/). If you install LibRedirect and enable Reddit redirection, you'll be redirected to your preferred privacy-friendly Reddit frontend like [Libreddit](https://github.com/libreddit/libreddit).
+This add-on pairs well with [LibRedirect](https://libredirect.github.io/). If you install LibRedirect and enable Reddit redirection, you'll be redirected to your preferred privacy-friendly Reddit frontend like [Redlib](https://github.com/redlib-org/redlib).
 
 ## Alternatives
 
